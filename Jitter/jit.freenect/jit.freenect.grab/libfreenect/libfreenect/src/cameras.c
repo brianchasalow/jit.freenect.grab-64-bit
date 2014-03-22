@@ -836,7 +836,6 @@ int freenect_start_depth(freenect_device *dev)
 {
 	freenect_context *ctx = dev->parent;
 	int res;
-    post("starting depth");
 	if (dev->depth.running)
 		return -1;
 
@@ -889,7 +888,6 @@ int freenect_start_depth(freenect_device *dev)
 	write_register(dev, 0x17, 0x00); // disable depth hflip
 
 	dev->depth.running = 1;
-        post("started depth");
 	return 0;
 }
 

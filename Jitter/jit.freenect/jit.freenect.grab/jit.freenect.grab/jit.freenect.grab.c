@@ -18,6 +18,13 @@
  
  */
 
+
+#define MAX(a,b)  (((a)>(b))?(a):(b))
+
+#define MIN(a,b)  (((a)<(b))?(a):(b))
+
+#define CLIP(n, min, max) MIN((MAX((n),(min))), (max))
+
 #include <pthread.h>
 #include "jit.common.h"
 #include <libusb.h>

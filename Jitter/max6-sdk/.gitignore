@@ -4,3 +4,4 @@ sdk-build
 *.o
 xcuserdata
 *.xcworkspace
+examples

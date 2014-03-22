@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3DCEE43C-F494-4F59-98A9-5FE8522610F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>jit.gl.syphonserver</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2E8B5A2F-B585-41D3-85B8-1BBF86CF9A51</key>
+		<string>ssh://github.com/Cycling74/max6-sdk.git</string>
+		<key>93E84404-D50A-4E9D-BC5D-156E3DD142BB</key>
+		<string>https://github.com/Syphon/Jitter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Server/jit.gl.syphonserver/jit.gl.syphonserver.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2E8B5A2F-B585-41D3-85B8-1BBF86CF9A51</key>
+		<string>../../../../max6-sdk</string>
+		<key>93E84404-D50A-4E9D-BC5D-156E3DD142BB</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Syphon/Jitter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>93E84404-D50A-4E9D-BC5D-156E3DD142BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>93E84404-D50A-4E9D-BC5D-156E3DD142BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Jitter</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2E8B5A2F-B585-41D3-85B8-1BBF86CF9A51</string>
+			<key>IDESourceControlWCCName</key>
+			<string>max6-sdk</string>
+		</dict>
+	</array>
+</dict>
+</plist>

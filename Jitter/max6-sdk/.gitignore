@@ -1,0 +1,6 @@
+.DS_Store
+build
+sdk-build
+*.o
+xcuserdata
+*.xcworkspace
